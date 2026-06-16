@@ -48,31 +48,31 @@ loyalty_tier
 ## Key Business Insights
 
 **Electronics dominate revenue but carry return risk**
-Electronics is the highest revenue category but also shows the highest return rate. This suggests a potential product quality or expectation mismatch worth investigating — especially for a company focused on customer satisfaction scores.
+Electronics is the highest revenue category but also shows the highest return rate. This suggests a potential product quality or expectation mismatch worth investigating - especially for a company focused on customer satisfaction scores.
 
 **Gold tier customers punch above their weight**
 Gold loyalty members represent a small share of total customers but contribute a disproportionate share of total revenue. Retention efforts and personalized offers should be prioritized for this segment before any expansion spend.
 
 **Most customers only buy once**
-The repeat vs one-time buyer analysis shows the majority of customers do not return after their first purchase. This points to a significant retention opportunity — even a small improvement in repeat purchase rate would have a material impact on revenue.
+The repeat vs one-time buyer analysis shows the majority of customers do not return after their first purchase. This points to a significant retention opportunity - even a small improvement in repeat purchase rate would have a material impact on revenue.
 
 **Revenue growth is uneven month over month**
 Month-over-month revenue shows inconsistency, with some months declining from the prior period. This warrants deeper investigation into whether dips correlate with seasonality, marketing spend, or product availability.
 
 **A large portion of customers are lapsed**
-The churn risk query identifies customers who haven't purchased in 90+ days. For a company like Numerator that tracks household purchase behavior, identifying and re-engaging lapsed buyers is a core use case.
+The churn risk query identifies customers who haven't purchased in 90+ days. This tracks household purchase behavior, identifying and re-engaging lapsed buyers is a core use case.
 
 ---
 
 ## SQL Skills Demonstrated
 
-- **CTEs** — single and chained multi-step CTEs for readable, modular queries
-- **Window functions** — RANK(), LAG(), SUM() OVER() for ranking and time-series analysis
-- **Multi-table JOINs** — combining up to 3 tables with INNER and LEFT JOINs
-- **Conditional aggregation** — CASE statements inside COUNT and SUM
-- **Date logic** — DATE_FORMAT, DATEDIFF, CURDATE() for time-based analysis
-- **Subqueries** — nested SELECT for segmentation logic
-- **Business metrics** — CLV, MoM growth, return rate, revenue share, profit margin
+- **CTEs** - single and chained multi-step CTEs for readable, modular queries
+- **Window functions** - RANK(), LAG(), SUM() OVER() for ranking and time-series analysis
+- **Multi-table JOINs** - combining up to 3 tables with INNER and LEFT JOINs
+- **Conditional aggregation** - CASE statements inside COUNT and SUM
+- **Date logic** - DATE_FORMAT, DATEDIFF, CURDATE() for time-based analysis
+- **Subqueries** - nested SELECT for segmentation logic
+- **Business metrics** - CLV, MoM growth, return rate, revenue share, profit margin
 
 ---
 
