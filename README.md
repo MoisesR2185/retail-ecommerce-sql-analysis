@@ -1,6 +1,6 @@
 # Retail E-Commerce SQL Analysis
 
-A SQL project analyzing consumer purchase behavior across a simulated retail dataset — built to demonstrate intermediate-to-advanced MySQL skills and real-world business thinking.
+A SQL project analyzing consumer purchase behavior across a simulated retail dataset - built to demonstrate intermediate-to-advanced MySQL skills and real-world business thinking.
 
 ---
 
@@ -8,7 +8,7 @@ A SQL project analyzing consumer purchase behavior across a simulated retail dat
 
 This project explores a fictional retail company's sales data to answer the kinds of questions a data or business analyst would face on the job: Who are our most valuable customers? Which products drive the most revenue? Are we growing month over month? Where are we losing customers?
 
-The dataset consists of 4 related tables — customers, orders, order items, and products — with 10 analytical queries written in MySQL 8.0.
+The dataset consists of 4 related tables - customers, orders, order items, and products - with 10 analytical queries written in MySQL 8.0.
 
 ---
 
